@@ -68,6 +68,3 @@ Feel free to fork and contribute to this project
     npm run dev
   </code>
 </pre>
-
-## License
-[MIT License](./LICENSE)
