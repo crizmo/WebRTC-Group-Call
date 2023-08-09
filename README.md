@@ -1,12 +1,12 @@
 # WebRTC Group Call
 
-WebRTC Group Call is a simple video chat application for multi-users based on React, Node Express and WebRTC.
+WebRTC Group Call is a simple video chat application for multi-users based on React, Node Express and WebRTC. <br>
 Main project was developed by Hyunse -> https://github.com/Hyunse/video-group-meeting
 
-This repository is made to try and get it implemented it in Vite 
+This repository is made to try and get it implemented it in Vite <br>
 Basically porting from CRA TO Vite
 
-As of now it is not working, facing some issue with props and state
+As of now it is not working, facing some issue with props and state <br>
 If you have any idea how to fix it, please let me know :)
 
 Feel free to fork and contribute to this project
